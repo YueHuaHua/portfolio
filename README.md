@@ -12,11 +12,11 @@
 
 </br>
 
-</br>
-
 ## Description
 
 Hello! I'm a web developer with an electrical engineering background. This application is my digital portofolio that I built with React. Feel free to check my page anytime you want! This readme summarise how my page looks and works. So, please check this readme if you get lost or drop any messages if you have any further questions!
+
+</br>
 
 ## Tech Used to Build
 * ReactJS
@@ -24,12 +24,15 @@ Hello! I'm a web developer with an electrical engineering background. This appli
 * Bootstrap
 * CSS
 
+</br>
+
 ## Important Links
 
 Portfolio can be accessed at following links:
 * [GitHub repository](https://github.com/YueHuaHua/portfolio).
 * [Deployed application](https://yuehuahua.github.io/portfolio/).
 
+</br>
 
 ## Display
 
