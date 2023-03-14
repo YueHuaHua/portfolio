@@ -7,8 +7,8 @@
 * [Tech Used to Build](#tech-used-to-build)
 * [Important Links](#important-links)
 * [Display](#display)
-  * [Desktop View](##desktop-view)
-  * [Mobile View](##mobile-view)
+  * [Desktop View](#desktop-view)
+  * [Mobile View](#mobile-view)
 
 </br>
 
