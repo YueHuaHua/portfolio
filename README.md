@@ -40,7 +40,7 @@ I have designed my portfolio to be accessible by any devices. Check the followin
 ### Desktop View
 
 #### Home
-![Desktop view - Home](images/desktop-home.png)
+![Desktop view - Home](images/desktop-home.PNG)
 #### About
 ![Desktop view - About](images/desktop-about.png)
 #### Skills
