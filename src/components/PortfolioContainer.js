@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Home from './Home';
 import Projects from './Projects';
 import About from './About';
 import Skills from './Skills';
@@ -8,10 +9,12 @@ import './container.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function PortfolioContainer() {
-	const [currentPage, setCurrentPage] = useState('Projects');
+	const [currentPage, setCurrentPage] = useState('Home');
 
 	// Handle nav page changes
 	const renderPage = () => {
+		if (currentPage === 'Home') return <Home />;
+
 		if (currentPage === 'Projects') return <Projects />;
 
 		if (currentPage === 'About') return <About />;

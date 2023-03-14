@@ -1,0 +1,57 @@
+
+export const projectData = [
+	{
+		title: 'Team Profile Generator',
+		languages: 'OOP, SE6, NPM, Inquiry',
+		liveUrl: 'https://yuehuahua.github.io/team-profile-generator/output/team.html',
+		gitHubUrl: 'https://github.com/YueHuaHua/team-profile-generator',
+		img: 'https://imgur.com/zeFjFKN.jpg',
+		alt: 'A preview of Weather Dashboard, a personal project that helps users to check the forecast of a city',
+		isNew: true,
+	},
+	{
+		title: 'Readme Generator',
+		languages: 'OOP, SE6, NPM, Inquiry',
+		liveUrl: 'https://github.com/YueHuaHua/readme-generator',
+		gitHubUrl: 'https://github.com/YueHuaHua/readme-generator',
+		img: 'https://imgur.com/FOTKIiR.jpg',
+		alt: 'A preview of Readme Generator, a personal project that helps users to generate readme file automatically',
+		isNew: false,
+	},
+	{
+		title: 'Password Generator',
+		langauges: 'Bootstrap, JS, HTML, CSS',
+		liveUrl: 'https://yuehuahua.github.io/module-05-challenge/',
+		gitHubUrl: 'https://github.com/yuehuahua/module-05-challenge/',
+		img: 'https://imgur.com/6loCuqP.jpg',
+		alt: 'A preview of Password Generator, a personal project that allows users to get randomized password based on the input criteria(s).',
+		isNew: false,
+	},
+	{
+		title: 'Coding Quiz',
+		languages: 'LocalStorage, API, HTML, CSS',
+		liveUrl: 'https://yuehuahua.github.io/module-06-challenge/',
+		gitHubUrl: 'https://github.com/YueHuaHua/module-06-challenge',
+		img: 'https://imgur.com/ZaJOZGu.jpg',
+		alt: 'A preview of Coding Quiz, a personal project that allows users to learn coding in a fun way',
+		isNew: false,
+	},
+	{
+		title: 'Daily Planner',
+		languages: 'LocalStorage, MomentJS, API',
+		liveUrl: 'https://yuehuahua.github.io/module-07-challenge/',
+		gitHubUrl: 'https://github.com/YueHuaHua/module-07-challenge',
+		img: 'https://imgur.com/xzDt3XG.jpg',
+		alt: 'A preview of Daily Planner, a personal project that helps users to manage their daily schedule',
+		isNew: false,
+	},
+	{
+		title: 'Weather Dashboard',
+		languages: 'LocalStorage, MomentJS, JQuery, AJAX',
+		liveUrl: 'https://yuehuahua.github.io/module-08-challenge/',
+		gitHubUrl: 'https://github.com/YueHuaHua/module-08-challenge',
+		img: 'https://imgur.com/4RTZgUT.jpg',
+		alt: 'A preview of Weather Dashboard, a personal project that helps users to check the forecast of a city',
+		isNew: false,
+	}
+];

@@ -1,0 +1,49 @@
+.custom-home {
+    background: url("./img/home-bg.jpg") top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	margin-top: -4rem;
+	margin-right: -4rem;
+	margin-left: -22rem;
+    height: 100vh;
+}
+
+.custom-container {
+    min-width: 300px;
+}
+
+.home-name {
+    margin-bottom: 16px;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #fff;
+}
+
+p {
+    color: #fff;
+    margin-bottom: 10px;
+    font-size: 26px;
+    font-family: "Poppins", sans-serif;
+}
+
+@media only screen and (max-width: 992px) {
+    .custom-home {
+        width: 100vw;
+        margin-top: -2rem;
+        margin-right: 0rem;
+        margin-left: 0rem;
+    }
+
+    .custom-container {
+        max-width: 60vw;
+    }
+
+    .home-name {
+        font-size: 50px;
+    }
+
+    p {
+        font-size: 24px;
+    }
+}
