@@ -1,11 +1,14 @@
 # Arum Gunawan's Portfolio
 
+</br>
+
 ## Table of Contents
 * [Description](#description)
-* [Features](#features)
-* [Installation & Deployment](#installation-and-deployment)
-* [How to Use](#how-to-use)
-* [License](#license)
+* [Tech Used to Build](#tech-used-to-build)
+* [Important Links](#important-links)
+* [Display](#display)
+  * [Desktop View](##desktop-view)
+  * [Mobile View](##mobile-view)
 
 </br>
 
